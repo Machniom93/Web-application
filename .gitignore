@@ -24,6 +24,4 @@ hs_err_pid*
 .idea/
 DAO.iml
 /target
-/src/main/webapp/theme
-.gitignore
-pom.xml
+
